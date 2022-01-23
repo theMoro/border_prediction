@@ -1,9 +1,3 @@
-"""
-Author: Tobias Morocutti
-Matr.Nr.: K12008172
-Exercise 5
-"""
-
 import glob
 import os
 import random

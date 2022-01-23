@@ -1,9 +1,3 @@
-"""
-Author: Tobias Morocutti
-Matr.Nr.: K12008172
-Exercise 5
-"""
-
 import dill as pkl
 import h5py
 import matplotlib.pyplot as plt
